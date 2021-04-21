@@ -16,6 +16,7 @@ public class Pino extends DataStructs {
 
 	public  void pinoAdd(Integer x) {
 		super.getList().add(0, x);
+		System.out.println(" - " +x +" -lisätty pinoon!");
 
 	}
 
@@ -33,7 +34,8 @@ public class Pino extends DataStructs {
 
 		Integer temp = new Integer(super.getR().nextInt(100)+1);
 		for (int x=0;x<y;x++) {
-			super.getList().add(temp);
+			this.pinoAdd(temp);
+			this.tulosta();
 			temp = new Integer(super.getR().nextInt(100)+1);
 		}
 	}

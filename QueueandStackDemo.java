@@ -14,7 +14,6 @@ public class QueueandStackDemo {
 		Jono jono = new Jono();
 		Pino pino = new Pino();
 		//Alustetaan jono ja pino.
-		jono.alustaJono(10);
 		pino.alustapino(10);
 		//Tulostetaan pinon kehitys
 		System.out.println("pino");
@@ -29,7 +28,10 @@ public class QueueandStackDemo {
 
 	//Tulostetaan jonon kehitys
 	System.out.println("jono");
-	jono.tulosta();
+	
+	jono.alustaJono(10);
+	
+	
 	while (jono.getList().size()>0) {
 		System.out.println(" jonon seuraava poistettava: " +jono.jonoNext());
 		jono.tulosta();
