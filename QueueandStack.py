@@ -37,7 +37,7 @@ class Pino:
         #Lisätään alkio oikeaan kohtaan
         print("Lisätään Pinoon " +str(tieto))
 
-        self.lista.insert(len(self.lista)-1,tieto)
+        self.lista.insert(len(self.lista),tieto)
 
     def poistaSeuraava(self):
         # palauttaa jonon seuraavan alkion ja  poistaa sen listasta.
@@ -58,7 +58,7 @@ for x in range(5):
     jono.lisaa(luku)
     jono.tulosta()
 
-while (len(jono.lista)) > 1:
+while (len(jono.lista)) > 0:
     jono.tulosta()
     a = jono.poistaSeuraava()
     print (int(a))

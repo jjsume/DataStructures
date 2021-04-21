@@ -1,0 +1,73 @@
+Lisätään jonoon luku 47
+[47]
+
+Lisätään jonoon luku 10
+[47, 10]
+
+Lisätään jonoon luku 83
+[47, 10, 83]
+
+Lisätään jonoon luku 81
+[47, 10, 83, 81]
+
+Lisätään jonoon luku 12
+[47, 10, 83, 81, 12]
+
+[47, 10, 83, 81, 12]
+
+ Jonosta poistetaan 47
+47
+[10, 83, 81, 12]
+
+ Jonosta poistetaan 10
+10
+[83, 81, 12]
+
+ Jonosta poistetaan 83
+83
+[81, 12]
+
+ Jonosta poistetaan 81
+81
+[12]
+
+ Jonosta poistetaan 12
+12
+jono on tyhjä!
+92
+Lisätään Pinoon 92
+[92]
+
+24
+Lisätään Pinoon 24
+[92, 24]
+
+74
+Lisätään Pinoon 74
+[92, 24, 74]
+
+91
+Lisätään Pinoon 91
+[92, 24, 74, 91]
+
+14
+Lisätään Pinoon 14
+[92, 24, 74, 91, 14]
+
+[92, 24, 74, 91, 14]
+
+Pinosta poistetaan 14
+14
+[92, 24, 74, 91]
+
+Pinosta poistetaan 91
+91
+[92, 24, 74]
+
+Pinosta poistetaan 74
+74
+[92, 24]
+
+Pinosta poistetaan 24
+24
+pino on tyhjä!
