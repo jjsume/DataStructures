@@ -1,0 +1,45 @@
+ - 50 -lisätty pinoon!
+50, - 21 -lisätty pinoon!
+21,50, - 94 -lisätty pinoon!
+94,21,50, - 19 -lisätty pinoon!
+19,94,21,50, - 98 -lisätty pinoon!
+98,19,94,21,50, - 60 -lisätty pinoon!
+60,98,19,94,21,50, - 51 -lisätty pinoon!
+51,60,98,19,94,21,50, - 50 -lisätty pinoon!
+50,51,60,98,19,94,21,50, - 64 -lisätty pinoon!
+64,50,51,60,98,19,94,21,50, - 82 -lisätty pinoon!
+82,64,50,51,60,98,19,94,21,50,pino
+82,64,50,51,60,98,19,94,21,50, pinon seuraava poistettava: 50
+82,64,50,51,60,98,19,94,21, pinon seuraava poistettava: 21
+82,64,50,51,60,98,19,94, pinon seuraava poistettava: 94
+82,64,50,51,60,98,19, pinon seuraava poistettava: 19
+82,64,50,51,60,98, pinon seuraava poistettava: 98
+82,64,50,51,60, pinon seuraava poistettava: 60
+82,64,50,51, pinon seuraava poistettava: 51
+82,64,50, pinon seuraava poistettava: 50
+82,64, pinon seuraava poistettava: 64
+82, pinon seuraava poistettava: 82
+pino on tyhjä!
+jono
+ - 4 - lisätty jonoon!
+4, - 86 - lisätty jonoon!
+4,86, - 6 - lisätty jonoon!
+4,86,6, - 98 - lisätty jonoon!
+4,86,6,98, - 49 - lisätty jonoon!
+4,86,6,98,49, - 44 - lisätty jonoon!
+4,86,6,98,49,44, - 40 - lisätty jonoon!
+4,86,6,98,49,44,40, - 60 - lisätty jonoon!
+4,86,6,98,49,44,40,60, - 8 - lisätty jonoon!
+4,86,6,98,49,44,40,60,8, - 20 - lisätty jonoon!
+4,86,6,98,49,44,40,60,8,20, jonon seuraava poistettava: 4
+86,6,98,49,44,40,60,8,20, jonon seuraava poistettava: 86
+6,98,49,44,40,60,8,20, jonon seuraava poistettava: 6
+98,49,44,40,60,8,20, jonon seuraava poistettava: 98
+49,44,40,60,8,20, jonon seuraava poistettava: 49
+44,40,60,8,20, jonon seuraava poistettava: 44
+40,60,8,20, jonon seuraava poistettava: 40
+60,8,20, jonon seuraava poistettava: 60
+8,20, jonon seuraava poistettava: 8
+20, jonon seuraava poistettava: 20
+jono on tyhjä!
+
