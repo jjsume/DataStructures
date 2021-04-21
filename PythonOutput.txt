@@ -1,0 +1,69 @@
+Lisätään jonoon luku 31
+[31]
+
+Lisätään jonoon luku 20
+[31, 20]
+
+Lisätään jonoon luku 18
+[31, 20, 18]
+
+Lisätään jonoon luku 33
+[31, 20, 18, 33]
+
+Lisätään jonoon luku 53
+[31, 20, 18, 33, 53]
+
+[31, 20, 18, 33, 53]
+
+ Jonosta poistetaan 31
+31
+[20, 18, 33, 53]
+
+ Jonosta poistetaan 20
+20
+[18, 33, 53]
+
+ Jonosta poistetaan 18
+18
+[33, 53]
+
+ Jonosta poistetaan 33
+33
+jono on tyhjä!
+54
+Lisätään Pinoon 54
+[54]
+
+43
+Lisätään Pinoon 43
+[43, 54]
+
+21
+Lisätään Pinoon 21
+[43, 21, 54]
+
+20
+Lisätään Pinoon 20
+[43, 21, 20, 54]
+
+95
+Lisätään Pinoon 95
+[43, 21, 20, 95, 54]
+
+[43, 21, 20, 95, 54]
+
+Pinosta poistetaan 54
+54
+[43, 21, 20, 95]
+
+Pinosta poistetaan 95
+95
+[43, 21, 20]
+
+Pinosta poistetaan 20
+20
+[43, 21]
+
+Pinosta poistetaan 21
+21
+pino on tyhjä!
