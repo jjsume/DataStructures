@@ -50,7 +50,7 @@ class Pino:
         #Tulostetaan
         print(self.lista)
         print("")
-#Luodaan Rakenne()-olio ja käytetään sen operaatioita
+#Luodaan oliot ja käytetään niiden operaatioita
 jono = Jono()
 
 for x in range(5):
