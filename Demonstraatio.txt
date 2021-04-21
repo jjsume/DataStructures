@@ -1,0 +1,25 @@
+pino
+70,87,57,36,42,40,58,29,31,69, pinon seuraava poistettava: 69
+70,87,57,36,42,40,58,29,31, pinon seuraava poistettava: 31
+70,87,57,36,42,40,58,29, pinon seuraava poistettava: 29
+70,87,57,36,42,40,58, pinon seuraava poistettava: 58
+70,87,57,36,42,40, pinon seuraava poistettava: 40
+70,87,57,36,42, pinon seuraava poistettava: 42
+70,87,57,36, pinon seuraava poistettava: 36
+70,87,57, pinon seuraava poistettava: 57
+70,87, pinon seuraava poistettava: 87
+70, pinon seuraava poistettava: 70
+pino on tyhjä!
+jono
+89,11,91,82,24,89,32,46,13,65, jonon seuraava poistettava: 89
+11,91,82,24,89,32,46,13,65, jonon seuraava poistettava: 11
+91,82,24,89,32,46,13,65, jonon seuraava poistettava: 91
+82,24,89,32,46,13,65, jonon seuraava poistettava: 82
+24,89,32,46,13,65, jonon seuraava poistettava: 24
+89,32,46,13,65, jonon seuraava poistettava: 89
+32,46,13,65, jonon seuraava poistettava: 32
+46,13,65, jonon seuraava poistettava: 46
+13,65, jonon seuraava poistettava: 13
+65, jonon seuraava poistettava: 65
+jono on tyhjä!
+
