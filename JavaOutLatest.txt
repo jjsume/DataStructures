@@ -1,0 +1,34 @@
+ - 61 -lisätty pinoon!
+61, - 12 -lisätty pinoon!
+12,61, - 16 -lisätty pinoon!
+16,12,61, - 100 -lisätty pinoon!
+100,16,12,61, - 28 -lisätty pinoon!
+28,100,16,12,61, - 79 -lisätty pinoon!
+79,28,100,16,12,61, - 14 -lisätty pinoon!
+14,79,28,100,16,12,61, - 35 -lisätty pinoon!
+35,14,79,28,100,16,12,61, - 84 -lisätty pinoon!
+84,35,14,79,28,100,16,12,61, - 99 -lisätty pinoon!
+99,84,35,14,79,28,100,16,12,61,pino
+99,84,35,14,79,28,100,16,12,61, pinon seuraava poistettava: 99
+84,35,14,79,28,100,16,12,61, pinon seuraava poistettava: 84
+35,14,79,28,100,16,12,61, pinon seuraava poistettava: 35
+14,79,28,100,16,12,61, pinon seuraava poistettava: 14
+79,28,100,16,12,61, pinon seuraava poistettava: 79
+28,100,16,12,61, pinon seuraava poistettava: 28
+100,16,12,61, pinon seuraava poistettava: 100
+16,12,61, pinon seuraava poistettava: 16
+12,61, pinon seuraava poistettava: 12
+61, pinon seuraava poistettava: 61
+pino on tyhjä!
+jono
+88,13,85,44,43,18,71,66,56,98, jonon seuraava poistettava: 88
+13,85,44,43,18,71,66,56,98, jonon seuraava poistettava: 13
+85,44,43,18,71,66,56,98, jonon seuraava poistettava: 85
+44,43,18,71,66,56,98, jonon seuraava poistettava: 44
+43,18,71,66,56,98, jonon seuraava poistettava: 43
+18,71,66,56,98, jonon seuraava poistettava: 18
+71,66,56,98, jonon seuraava poistettava: 71
+66,56,98, jonon seuraava poistettava: 66
+56,98, jonon seuraava poistettava: 56
+98, jonon seuraava poistettava: 98
+jono on tyhjä!
